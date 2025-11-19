@@ -1,0 +1,13 @@
+# robots.txt for samirdalipi.github.io
+# Allow all search engine crawlers including Majestic SEO's MJ12bot
+
+User-agent: *
+Allow: /
+
+# Explicitly allow Majestic SEO crawler (MJ12bot)
+User-agent: MJ12bot
+Allow: /
+
+# Sitemap location
+Sitemap: https://samirdalipi.github.io/sitemap.xml
+
